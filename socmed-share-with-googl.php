@@ -2,8 +2,8 @@
 
 	/*
 
-		Plugin Name: socmed share with goo.gl url shorterner
-		Description: WordPress plugin for 
+		Plugin Name: socmed like button with goo.gl url shorterner
+		Description: WordPress plugin for social media like button with goo.gl url shorterner
 		Author: Imam Mubin
 		Author URI: http://www.imammubin.com
 		Plugin URI: https://github.com/imammubin/socmed-share-with-googl/archive/master.zip
