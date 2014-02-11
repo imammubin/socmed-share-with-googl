@@ -6,7 +6,7 @@
 		Description: WordPress plugin for 
 		Author: Imam Mubin
 		Author URI: http://www.imammubin.com
-		Plugin URI: http://blog.imammubin.com/google-url-shortener-with-curl-function/2014/02/10/
+		Plugin URI: https://github.com/imammubin/socmed-share-with-googl/archive/master.zip
 		Version: 1.0
 
 	*/
