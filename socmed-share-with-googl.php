@@ -2,7 +2,7 @@
 
 	/*
 
-		Plugin Name: socmed share with goo.gl shorterner
+		Plugin Name: socmed share with goo.gl url shorterner
 		Description: WordPress plugin for 
 		Author: Imam Mubin
 		Author URI: http://www.imammubin.com
